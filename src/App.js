@@ -12,13 +12,13 @@ const DUMMY_EXPENSES = [
         },
         {
             id: "e2",
-            date: new Date(2023, 0, 10),
+            date: new Date(2024, 0, 10),
             title: "Hype Boy By NewJeans",
             price: 99.99
         },
         {
             id: "e3",
-            date: new Date(2023,0,10),
+            date: new Date(2024,0,10),
             title: "Zimzalabim By Red Velvet",
             price: 69.69
         }
