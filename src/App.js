@@ -11,7 +11,7 @@ function App() {
         },
         {
             date: new Date(2023, 0, 10),
-            title: "Hype Boy By Newjeans",
+            title: "Zero By NewJeans",
             price: 99.99
         }
     ]
