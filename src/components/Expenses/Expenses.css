@@ -7,3 +7,32 @@
     border-radius: 12px;
     box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
 }
+
+p {
+    color: white;
+}
+
+.expenses__control {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1rem 0;
+}
+
+.expenses__control label {
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.expenses__control select {
+    font: inherit;
+    padding: 0.5rem 3rem;
+    font-weight: bold;
+    border-radius: 6px;
+}
+
+.expenses__list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
